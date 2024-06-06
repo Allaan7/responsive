@@ -1,0 +1,15 @@
+body{
+    margin: 0 auto;
+}
+header{
+    background-color: #9933CC;
+    height: 75px;
+}
+.block1{
+    width: 20%;
+
+}
+.block1, a{
+    background-color: #33B5E5;
+
+}
