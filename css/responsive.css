@@ -79,7 +79,7 @@ main{
     }
 
     section{
-        flex-direction: column;/*on peut changer laxe principal de flex pour avoir affichage en bloc pour chaque div*/
+        flex-direction: column;/*on peut changer l'axe principal de flex pour avoir l'affichage en bloc pour chaque div*/
         align-items: center;
     }
 
